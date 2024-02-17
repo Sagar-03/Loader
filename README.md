@@ -1,2 +1,2 @@
 # firstrepo
-c++ code
+This is my first repo
